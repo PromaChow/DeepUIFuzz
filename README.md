@@ -1,4 +1,4 @@
-# Web UI Generation and Screenshot Tool
+# DeepUIFuzz: DeepUIFuzz: A Guided Fuzzing Strategy for Testing UI Component Detection Models 
 
 This project consists of two main components:
 
